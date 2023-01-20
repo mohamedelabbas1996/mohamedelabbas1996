@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+-->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mohamedelabbas1996}/count.svg" /></p> 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
--->
+
 [![Mohamed Elabbas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedelabbas1996&bg_color=abb9d8&color=010404&line=535bd0&point=43444c&area=true&hide_border=true)](https://github.com/mohamedelabbas1996/github-readme-activity-graph)
 
 ##
