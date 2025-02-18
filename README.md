@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1FBFFA&height=138&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mohamed+Elabbs;Welcome+to+my+github+profile;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mohamed+Elabbas;Welcome+to+my+github+profile;%29)](https://git.io/typing-svg)
 
 ![Mohamed Elabbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedelabbas1996&show_icons=true&theme=transparent)
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br>
